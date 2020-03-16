@@ -50,7 +50,8 @@ public enum Permissions {
 	QORG_CEF_MEDIA_URL("Q-Organizer/CEF/media URL"),
 	QORG_CEF_MEDIA_ADD("Q-Organizer/CEF/add media"),
 	QORGANIZER_TEACHER("Q-Organizer/teacher"),
-	QORGANIZER_PUBLISHER("Q-Organizer/publisher");
+	QORGANIZER_PUBLISHER("Q-Organizer/publisher"),
+	QORGANIZER_WHATEVER("Q-Organizer/whateves");
 	// <-- DEPRECATED
 	
 	private String fullName;
