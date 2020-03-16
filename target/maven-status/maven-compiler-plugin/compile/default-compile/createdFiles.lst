@@ -1,0 +1,4 @@
+com/qplayer/common/security/CommonTokenAuthenticationUtils.class
+com/qplayer/common/security/Permissions.class
+com/qplayer/common/security/AuthenticationDetails.class
+com/qplayer/common/security/QJwtAuthenticationFilter.class
